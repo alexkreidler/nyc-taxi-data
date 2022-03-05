@@ -1,4 +1,4 @@
-CREATE EXTENSION postgis;
+-- CREATE EXTENSION postgis;
 
 CREATE TABLE green_tripdata_staging (
   id bigserial primary key,
